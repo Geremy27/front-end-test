@@ -1,0 +1,17 @@
+.user-form-wrapper {
+  width: 50%;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  .field-label {
+    margin-top: 12px;
+    margin-bottom: 4px;
+    .radio-button {
+      margin-bottom: 4px;
+    }
+  }
+  .submit-button {
+    margin-top: 12px;
+    margin-bottom: 4px;
+  }
+}
